@@ -137,9 +137,11 @@ Arch Linux users can install from the [extra repo][arch linux repo]:
 ```bash
 sudo pacman -S github-cli
 ```
-
+settings 
+**```java
 Alternatively, use the [unofficial AUR package][arch linux aur] to build GitHub CLI from source.
-
+language Arabic For applications GitHub 
+```**
 ### Android
 
 Android 7+ users can install via [Termux](https://wiki.termux.com/wiki/Main_Page):
